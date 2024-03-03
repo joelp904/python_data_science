@@ -65,7 +65,6 @@ def create_keys(tags):
     return keys
 
 ##############################################################################
-
 if __name__ == "__main__":
     keys = create_keys(tags)
     final_dict = {}
